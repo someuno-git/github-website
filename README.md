@@ -1,2 +1,2 @@
-# github-website
+# A random website
 A GitHub website project
